@@ -99,8 +99,8 @@ height: 30px;
 }
 
 @media screen and (max-width : 368px) {
-    html{
-        font-size:62.5%;
+    .Terms{
+        font-size:1rem;
         
 
 }
